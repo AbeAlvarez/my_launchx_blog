@@ -1,7 +1,10 @@
 ---
 title: "Mis expectativas"
-date: 2022-02-21T18:16:21-06:00
+date: 2022-04-12
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Usa este post para anotar tus expectativas de la misión.
+Mi paso por Launch X desde el inicio hasta el día de hoy ha sido una experiencia de muchos retos, desde no saber casi nada de programación hasta llegar a moverme con fluidez en distintos lenguajes de programación.
+
+Espero que la experiencia vivida en Innovacción visrtual rinda pronto sus frutos y abra las puertas a un nuevo mundo; nuevas oportunidades laborales y de fortalecimiento de aptutudes y talentos laborales. 
+
