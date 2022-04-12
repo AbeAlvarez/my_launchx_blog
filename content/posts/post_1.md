@@ -1,6 +1,6 @@
 ---
 title: "La cultura de un desarrollad@r de software"
-date: 2022-03-01
+date: 2022-04-12
 description: 'La preparación de un desarrollador de software nunca termina'
 ---
 
