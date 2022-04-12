@@ -15,5 +15,6 @@ Hola qué tal a todos, mi nombre es Abelino Álvarez pero me gusta que me digan 
 
 Actualmente estoy emprendiendo un nuevo camino estudiando la Ing. en Sistemas Compuatacionales, esto con el sueño de un día ser desarrollador de software y poder crear nuevas propuestas audiovisuales, interactivas y digitales para la publicidad. 
 
-**Qué esérp de Launch X?**
-Launch X ha venido a sembrar mucha inquietud y motivación en mi vida en cuanto a que nunca es tarde para lograr los sueños. Pero también se ha convertido en un reto y en un acelerador para alcanzar esos objetivos en un tiempo menor. 
+**¿Qué esérp de Launch X?**
+
+Launch X ha venido a sembrar mucha inquietud y motivación en mi vida en cuanto a que nunca es tarde para lograr cualquier sueño. Pero también se ha convertido en un reto y en un acelerador para alcanzar esos objetivos en un tiempo menor. 
